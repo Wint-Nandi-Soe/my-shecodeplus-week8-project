@@ -61,3 +61,10 @@ li {
     font-size: 16px;
     top: -34px;
 }
+.weather-forecast-day{
+    font-size: 18px;
+    opacity: 0.45
+}
+#min-temp{
+    opacity: 0.5;
+}
